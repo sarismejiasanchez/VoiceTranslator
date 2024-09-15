@@ -13,6 +13,9 @@ Agradecimientos a [MoureDev](https://youtu.be/oxLvf2nDCvQ?si=8fC2fkEkYl_FwSfc) p
 
     git clone git@github.com:sarismejiasanchez/VoiceTranslator.git
 
+### Ingresar al directorio VoiceTranslator
+    cd VoiceTranslator
+
 ### Crear directorio audios
 En el directorio local, debes crear al directorio audios, allí se almacenarán los audios traducidos.
 
