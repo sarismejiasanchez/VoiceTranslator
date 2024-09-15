@@ -9,14 +9,16 @@ Agradecimientos a [MoureDev](https://youtu.be/oxLvf2nDCvQ?si=8fC2fkEkYl_FwSfc) p
 
 ## Cómo usar este proyecto
 
-### Clonar el repositorio
+### Realizar un [FORK](https://github.com/sarismejiasanchez/VoiceTranslator/fork) del repositorio VoiceTranslator.
 
-    git clone git@github.com:sarismejiasanchez/VoiceTranslator.git
+### Clonar el repositorio a tu máquina local
+
+    git clone [TU-REPOSITORIO]
 
 ### Ingresar al directorio VoiceTranslator
     cd VoiceTranslator
 
-### Crear directorio audios
+### Crear directorio **audios**
 En el directorio local, debes crear al directorio audios, allí se almacenarán los audios traducidos.
 
     mkdir audios
